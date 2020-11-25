@@ -1,0 +1,10 @@
+*.out
+kenn*
+result_*
+*.sh
+test*
+*test.pgn
+simple.pgn
+smirnov*
+Kasparov*
+*.bin
