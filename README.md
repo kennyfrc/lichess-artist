@@ -4,7 +4,7 @@ This is a fork of [Chess Artist](https://github.com/fsmosca/chess-artist), which
 1. Lichess-style annotations
 2. Allow lc0 engines
 
-The reason behind the two is that it allows users to do supervised learning using [Daniel Uruanga's Lc0 Training Tool](https://github.com/kennyfrc/trainingdata-tool).
+The reason behind the two is that it allows users to do supervised learning using [Daniel Uranga's Lc0 Training Tool](https://github.com/kennyfrc/trainingdata-tool).
 
 Tested engines:
 * Stockfish (Search eval)
